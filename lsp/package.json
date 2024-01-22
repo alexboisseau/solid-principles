@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "run:violation": "tsx ./src/violation/main.ts"
+    "run:violation": "tsx ./src/violation/main.ts",
+    "run:solution": "tsx ./src/solution/main.ts"
   },
   "keywords": [],
   "author": "",
